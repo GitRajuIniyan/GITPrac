@@ -1,10 +1,10 @@
 package com.nt.test;
 
-public class Test {
+public class Test{
 
 	public static void main(String[] args) {
 		
-		System.out.println("Iniyan");
+		System.out.print("Iniyan");
 		System.out.println("Raju");
 	}
 
